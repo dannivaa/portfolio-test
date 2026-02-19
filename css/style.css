@@ -67,7 +67,7 @@ ul { list-style: none; }
    ============================================= */
 body {
   font-family: var(--font);
-  background: #fff;
+  background: #121212;
   color: var(--dark);
   line-height: 1.5;
   overflow-x: hidden;
